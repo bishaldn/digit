@@ -22,8 +22,8 @@ protobuf==3.11.2
 python-resize-image==1.1.19
 requests==2.22.0
 six==1.13.0
-tensorboard==1.14.0
-tensorflow==1.14.0
+tensorboard==2.9.0
+tensorflow==2.9.0
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 urllib3==1.25.7
