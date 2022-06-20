@@ -1,6 +1,5 @@
 absl-py
 opencv-python-headless
-libgl1
 update
 Click
 Flask
