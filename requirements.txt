@@ -1,6 +1,6 @@
 absl-py
-opencv-python
 python3-opencv
+opencv-python-headless
 libgl1
 Click
 Flask
