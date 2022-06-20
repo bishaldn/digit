@@ -1,5 +1,7 @@
 absl-py
 opencv-python
+python3-opencv
+libgl1
 Click
 Flask
 gast
@@ -10,8 +12,7 @@ h5py
 idna
 itsdangerous
 Jinja2
-Keras-Applications
-Keras-Preprocessing
+Keras
 Markdown
 MarkupSafe
 numpy
