@@ -1,5 +1,5 @@
 absl-py
-
+opencv-python
 Click
 Flask
 gast
