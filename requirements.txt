@@ -1,7 +1,8 @@
 absl-py
-python3-opencv
 opencv-python-headless
 libgl1
+update
+ffmepg libsm6 libxext6
 Click
 Flask
 gast
